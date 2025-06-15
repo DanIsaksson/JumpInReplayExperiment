@@ -60,4 +60,4 @@ if you want to change the bindings you can do it in the bakkesmod bindings tab.
 
 **Contact:**
 
-feel free to give me suggestions and report bugs via discord: Atomus#5492 or github.
+feel free to give me suggestions and report bugs viagithub.
